@@ -1,1 +1,0 @@
-[![Board Status](https://dev.azure.com/ChinarCorps/3510501b-e81a-4e10-8ae5-b35f46e17900/4917943f-2a7d-477e-8746-5dc530b45a71/_apis/work/boardbadge/35848ffb-dee4-4b52-b98d-d095fa2bdb79)](https://dev.azure.com/ChinarCorps/3510501b-e81a-4e10-8ae5-b35f46e17900/_boards/board/t/4917943f-2a7d-477e-8746-5dc530b45a71/Microsoft.RequirementCategory)
